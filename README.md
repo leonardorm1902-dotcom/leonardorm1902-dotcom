@@ -1,8 +1,8 @@
 # Leonardo Rodrigues Machado
 
-**`Desenvolvedor Python`**
- 
- Sou o Leonardo Rodrigues Machado, tenho 26  anos e sou natural de São Carlos - SP. Atualmente, Sou Cientista de Dados com foco  em Visão Computacional, e um Entusiasta  por tecnologia.
+**`Python | Computer Vision | Data Science`**
+
+Building AI solutions with Python
 
 ### Skills  
 
