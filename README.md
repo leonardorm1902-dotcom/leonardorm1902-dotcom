@@ -1,9 +1,39 @@
-# Leonardo Rodrigues Machado
+# Olá! 👋
 
-**`Python | Computer Vision | Data Science`**
+Sou **Leonardo Rodrigues Machado**, desenvolvedor Python com foco em **Visão Computacional** e **Ciência de Dados**.
 
-Building AI solutions with Python
+Meu objetivo é desenvolver soluções inteligentes que transformem dados e imagens em informação útil para tomada de decisão.
 
-### Skills  
+---
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> </p>
+## Tecnologias
+
+- Python
+- OpenCV
+- Pandas
+- NumPy
+- Scikit-Learn
+
+---
+
+## Atualmente estudando
+
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Inteligência Artificial
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardorm1902-dotcom&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorm1902-dotcom&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/leonardo-rodrigues-machado-196a84193
